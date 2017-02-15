@@ -1,5 +1,5 @@
 {
-  "name": "dual-box",
+  "name": "angular-dual-box",
   "version": "1.0.0",
   "description": "Angular directive of Bootstrap Dual ListBox",
   "main": "dist/dual-box.js",
