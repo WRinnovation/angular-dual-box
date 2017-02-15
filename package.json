@@ -1,0 +1,35 @@
+{
+  "name": "dual-box",
+  "version": "1.0.0",
+  "description": "Angular directive of Bootstrap Dual ListBox",
+  "main": "dist/dual-box.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "dual-box",
+    "dual-listbox",
+    "directive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WRinnovation/angular-dual-box.git"
+  },
+  "author": "WRinnovation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WRinnovation/angular-dual-box/issues"
+  },
+  "homepage": "https://github.com/WRinnovation/angular-dual-box#readme",
+  "peerDependencies": {
+    "angular": "*",
+    "bootstrap": "*",
+    "jquery": "*",
+    "lodash": "*"
+  }
+}
