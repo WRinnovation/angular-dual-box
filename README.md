@@ -1,6 +1,8 @@
 # angular-dual-box
 Angular version of dual list box
 
+![image](https://raw.githubusercontent.com/WRinnovation/angular-dual-box/master/assets/dual-box-screen.png)
+
 #### Dependencies
 * JQuery
 * AngularJS
