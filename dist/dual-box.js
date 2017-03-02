@@ -19,7 +19,7 @@ angular.module('dualBox', [])
             // refresh_data: '&?refreshData', // not used
             // refresh_trigger: '=?refreshTrigger' // not used
         },
-        template: '<div class="bootstrap-duallistbox-container row">'
+        template: '<div class="bootstrap-duallistbox-container">'
         + '<div class="box1 col-md-6 filtered"><label for="bootstrap-duallistbox-nonselected-list_duallistbox_demo2">Available [[feature_name]]</label>'
         + '<span class="label label-warning" ng-show="available_filtered.length != available_items.length">Filtered</span> <span class="info-container">{{available_filtered.length}} from {{available_items.length}} of [[feature_name]]</span>'
         + '<input class="filter search form-control" type="text" ng-model="available_search" placeholder="Filter">'
